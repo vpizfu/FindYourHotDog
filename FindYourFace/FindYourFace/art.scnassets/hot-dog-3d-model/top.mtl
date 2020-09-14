@@ -1,0 +1,66 @@
+# Exported from Bryce 6.0
+
+newmtl material_1
+    Ns 196
+    d 1.000000
+    illum 2
+    #bump_amt -0.220339
+    #refl_amt 0.016949
+    #amb_amt 0.406780
+    #dif_amt 1.000000
+    #spec_amt 0.118644
+    Ka 0.406780 0.406780 0.406780
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.109339 0.118644 0.118644
+    Tf 1.000000 1.000000 1.000000
+    map_Ka top_mtl1_ambicol.bmp
+    map_Kd top_mtl1_diffcol.bmp
+    map_Bump top_mtl1_bumpamt.bmp
+newmtl material_2
+    Ns 196
+    d 1.000000
+    illum 2
+    #bump_amt -0.220339
+    #refl_amt 0.016949
+    #amb_amt 0.406780
+    #dif_amt 1.000000
+    #spec_amt 0.118644
+    Ka 0.406780 0.406780 0.406780
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.109339 0.118644 0.118644
+    Tf 1.000000 1.000000 1.000000
+    map_Ka top_mtl2_ambicol.bmp
+    map_Kd top_mtl2_diffcol.bmp
+    map_Bump top_mtl2_bumpamt.bmp
+newmtl material_3
+    Ns 196
+    d 1.000000
+    illum 2
+    #bump_amt -0.220339
+    #refl_amt 0.016949
+    #amb_amt 0.406780
+    #dif_amt 1.000000
+    #spec_amt 0.118644
+    Ka 0.406780 0.406780 0.406780
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.109339 0.118644 0.118644
+    Tf 1.000000 1.000000 1.000000
+    map_Ka top_mtl3_ambicol.bmp
+    map_Kd top_mtl3_diffcol.bmp
+    map_Bump top_mtl3_bumpamt.bmp
+newmtl material_4
+    Ns 215
+    d 1.000000
+    illum 2
+    #bump_amt -1.000000
+    #refl_amt 0.033898
+    #amb_amt 0.355932
+    #dif_amt 0.762712
+    #spec_amt 1.000000
+    Ka 0.355932 0.355932 0.355932
+    Kd 0.762712 0.666999 0.442672
+    Ks 0.996078 0.996078 0.996078
+    Tf 1.000000 1.000000 1.000000
+    map_Ka top_mtl4_ambicol.bmp
+    map_Kd top_mtl4_diffcol.bmp
+    map_Bump top_mtl4_bumpamt.bmp

@@ -1,0 +1,45 @@
+# File produced by AccuTrans 3D
+
+newmtl bottombread
+  Ns 215.0
+  d 1.0
+  illum 2
+  Kd 0.7627 0.667 0.4427
+  Ka 0.3559 0.3559 0.3559
+  Ks 0.9961 0.9961 0.9961
+  map_Kd E:\MyBryce\objs\Food\hotdog\bottom_mtl1_diffcol.bmp
+
+newmtl bottomcrust
+  Ns 196.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0.4068 0.4068 0.4068
+  Ks 0.1093 0.1186 0.1186
+  map_Kd E:\MyBryce\objs\Food\hotdog\bottom_mtl2_diffcol.bmp
+
+newmtl topbread
+  Ns 215.0
+  d 1.0
+  illum 2
+  Kd 0.7627 0.667 0.4427
+  Ka 0.3559 0.3559 0.3559
+  Ks 0.9961 0.9961 0.9961
+  map_Kd E:\MyBryce\objs\Food\hotdog\top_mtl4_diffcol.bmp
+
+newmtl topcrust
+  Ns 196.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0.4068 0.4068 0.4068
+  Ks 0.1093 0.1186 0.1186
+  map_Kd E:\MyBryce\objs\Food\hotdog\top_mtl1_diffcol.bmp
+
+newmtl weiner
+  Ns 27.0
+  d 1.0
+  illum 2
+  Kd 0.8784 0.6275 0.6275
+  Ka 0.0439 0.0314 0.0314
+  Ks 0.05 0.05 0.05

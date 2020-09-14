@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>341202103276-sm04n2fbhl6pljp02df9nfvb8jjbh1sf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.341202103276-sm04n2fbhl6pljp02df9nfvb8jjbh1sf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgJDLRk7uG5LGtXLUp76Jsu2yHpXiU4eE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>341202103276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Roman.FindYourFace</string>
+	<key>PROJECT_ID</key>
+	<string>findyourface-34b89</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findyourface-34b89.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:341202103276:ios:2ab6d26c80cc4e18912ec9</string>
+	<key>DATABASE_URL</key>
+	<string>https://findyourface-34b89.firebaseio.com</string>
+</dict>
+</plist>
