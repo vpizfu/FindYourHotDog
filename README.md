@@ -1,5 +1,5 @@
 # Project Name: FindYourHotDog
-
+ 
 ## Work example:
 
 ![Usage App Demo Example](demo/demo.gif) <br />
