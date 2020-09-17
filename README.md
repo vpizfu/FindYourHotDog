@@ -26,7 +26,7 @@
 
 ## Technologies
 
-ARKit, SceneKit, CoreML, FireBase, Swift 5.x, Networking and etc.
+ARKit, SceneKit, CoreML, FireBase, Swift 5.x, Networking and etc. 
 
 ## Installation:
 
